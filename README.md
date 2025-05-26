@@ -26,7 +26,7 @@ Before running this project, ensure you have the following installed:
 git clone https://github.com/Zier0Code/gdrive_transfer_file_ownership.git
 ```
 
-### Step 2: Clone this Repository
+### Step 3: Install Packages and Run
 
 Run the following command to install the necessary dependencies and run:
 
