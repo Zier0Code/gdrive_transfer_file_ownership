@@ -1,4 +1,4 @@
-# Google Drive Ownership Transfer using Node.js and Google Drive API
+# Google Drive Transfer File Onwership using Node.js and Google Drive API
 
 This project demonstrates how to transfer ownership of a file in Google Drive using Node.js and the Google Drive API. It requires user authentication via OAuth2 and allows you to transfer ownership of a file by providing the file ID and the new owner's email.
 
