@@ -18,12 +18,15 @@ Before running this project, ensure you have the following installed:
 3. Enable the **Google Drive API** for the project.
 4. Go to the **Credentials** tab and click on **Create Credentials**.
 5. Choose **OAuth 2.0 Client IDs** and configure your consent screen.
-6. Download the `credentials.json` file and save it in the root of your project directory.
+6. Go to **Audience** and add **Test Users**
 
-### Step 2: Install Dependencies
+### Step 2: Clone this Repository
 
 Run the following command to install the necessary dependencies:
 
 ```bash
-npm install googleapis dotenv fs
+- git clone (url)
+- npm i 
+- npm start
+
 
